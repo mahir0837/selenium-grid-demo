@@ -6,3 +6,6 @@ Feature: The application should be running
     When I search for "wooden spoon"
     Then I should see the results
 
+
+
+
